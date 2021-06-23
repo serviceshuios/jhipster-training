@@ -1,0 +1,26 @@
+{
+  "monBlogApp": {
+    "celeb": {
+      "home": {
+        "title": "Celebs",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Celeb",
+        "createOrEditLabel": "Créer ou éditer un Celeb",
+        "search": "Recherche pour Celeb",
+        "notFound": "Aucun Celeb trouvé"
+      },
+      "created": "Un nouveau Celeb a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Celeb avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Celeb avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Celeb {{ id }} ?"
+      },
+      "detail": {
+        "title": "Celeb"
+      },
+      "id": "ID",
+      "celebName": "Celeb Name",
+      "appuser": "Appuser"
+    }
+  }
+}

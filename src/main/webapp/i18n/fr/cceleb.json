@@ -1,0 +1,26 @@
+{
+  "monBlogApp": {
+    "cceleb": {
+      "home": {
+        "title": "Ccelebs",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Cceleb",
+        "createOrEditLabel": "Créer ou éditer un Cceleb",
+        "search": "Recherche pour Cceleb",
+        "notFound": "Aucun Cceleb trouvé"
+      },
+      "created": "Un nouveau Cceleb a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Cceleb avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Cceleb avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Cceleb {{ id }} ?"
+      },
+      "detail": {
+        "title": "Cceleb"
+      },
+      "id": "ID",
+      "celebName": "Celeb Name",
+      "community": "Community"
+    }
+  }
+}

@@ -42,6 +42,30 @@
     "devServerPort": 4200,
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["fr", "en"]
+    "languages": ["fr", "en"],
+    "entities": [
+      "Appuser",
+      "Blog",
+      "Post",
+      "Topic",
+      "Tag",
+      "Comment",
+      "Notification",
+      "Appphoto",
+      "Community",
+      "Follow",
+      "Blockuser",
+      "Interest",
+      "Activity",
+      "Celeb",
+      "Cinterest",
+      "Cactivity",
+      "Cceleb",
+      "Urllink",
+      "Frontpageconfig",
+      "Feedback",
+      "ConfigVariables"
+    ],
+    "lastLiquibaseTimestamp": 1624378643000
   }
 }

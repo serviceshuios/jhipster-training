@@ -1,0 +1,45 @@
+{
+  "monBlogApp": {
+    "appuser": {
+      "home": {
+        "title": "Appusers",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Appuser",
+        "createOrEditLabel": "Créer ou éditer un Appuser",
+        "search": "Recherche pour Appuser",
+        "notFound": "Aucun Appuser trouvé"
+      },
+      "created": "Un nouveau Appuser a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Appuser avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Appuser avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Appuser {{ id }} ?"
+      },
+      "detail": {
+        "title": "Appuser"
+      },
+      "id": "ID",
+      "creationDate": "Creation Date",
+      "bio": "Bio",
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "linkedin": "Linkedin",
+      "instagram": "Instagram",
+      "birthdate": "Birthdate",
+      "user": "User",
+      "blog": "Blog",
+      "community": "Community",
+      "notification": "Notification",
+      "comment": "Comment",
+      "post": "Post",
+      "followed": "Followed",
+      "following": "Following",
+      "blockeduser": "Blockeduser",
+      "blockinguser": "Blockinguser",
+      "appphoto": "Appphoto",
+      "interest": "Interest",
+      "activity": "Activity",
+      "celeb": "Celeb"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "monBlogApp": {
+    "post": {
+      "home": {
+        "title": "Posts",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Post",
+        "createOrEditLabel": "Créer ou éditer un Post",
+        "search": "Recherche pour Post",
+        "notFound": "Aucun Post trouvé"
+      },
+      "created": "Un nouveau Post a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Post avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Post avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Post {{ id }} ?"
+      },
+      "detail": {
+        "title": "Post"
+      },
+      "id": "ID",
+      "creationDate": "Creation Date",
+      "publicationDate": "Publication Date",
+      "headline": "Headline",
+      "leadtext": "Leadtext",
+      "bodytext": "Bodytext",
+      "quote": "Quote",
+      "conclusion": "Conclusion",
+      "linkText": "Link Text",
+      "linkURL": "Link URL",
+      "image": "Image",
+      "comment": "Comment",
+      "appuser": "Appuser",
+      "blog": "Blog",
+      "tag": "Tag",
+      "topic": "Topic"
+    }
+  }
+}

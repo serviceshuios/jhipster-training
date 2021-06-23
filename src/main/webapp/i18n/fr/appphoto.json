@@ -1,0 +1,27 @@
+{
+  "monBlogApp": {
+    "appphoto": {
+      "home": {
+        "title": "Appphotos",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Appphoto",
+        "createOrEditLabel": "Créer ou éditer un Appphoto",
+        "search": "Recherche pour Appphoto",
+        "notFound": "Aucun Appphoto trouvé"
+      },
+      "created": "Un nouveau Appphoto a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Appphoto avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Appphoto avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Appphoto {{ id }} ?"
+      },
+      "detail": {
+        "title": "Appphoto"
+      },
+      "id": "ID",
+      "creationDate": "Creation Date",
+      "image": "Image",
+      "appuser": "Appuser"
+    }
+  }
+}

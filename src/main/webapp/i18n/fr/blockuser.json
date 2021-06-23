@@ -1,0 +1,29 @@
+{
+  "monBlogApp": {
+    "blockuser": {
+      "home": {
+        "title": "Blockusers",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Blockuser",
+        "createOrEditLabel": "Créer ou éditer un Blockuser",
+        "search": "Recherche pour Blockuser",
+        "notFound": "Aucun Blockuser trouvé"
+      },
+      "created": "Un nouveau Blockuser a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Blockuser avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Blockuser avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Blockuser {{ id }} ?"
+      },
+      "detail": {
+        "title": "Blockuser"
+      },
+      "id": "ID",
+      "creationDate": "Creation Date",
+      "blockeduser": "Blockeduser",
+      "blockinguser": "Blockinguser",
+      "cblockeduser": "Cblockeduser",
+      "cblockinguser": "Cblockinguser"
+    }
+  }
+}

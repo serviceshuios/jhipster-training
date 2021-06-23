@@ -1,0 +1,26 @@
+{
+  "monBlogApp": {
+    "cactivity": {
+      "home": {
+        "title": "Cactivities",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Cactivity",
+        "createOrEditLabel": "Créer ou éditer un Cactivity",
+        "search": "Recherche pour Cactivity",
+        "notFound": "Aucun Cactivity trouvé"
+      },
+      "created": "Un nouveau Cactivity a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Cactivity avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Cactivity avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Cactivity {{ id }} ?"
+      },
+      "detail": {
+        "title": "Cactivity"
+      },
+      "id": "ID",
+      "activityName": "Activity Name",
+      "community": "Community"
+    }
+  }
+}
